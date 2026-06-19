@@ -25,9 +25,10 @@ A sleek and responsive weather forecast application that provides current weathe
 * OpenWeatherMap API
 * Font Awesome for icons
 
+
 ## 📸 Screenshots
 
-![Uploading Screenshot 2025-06-04 195243.png…]()
+<img width="560" height="551" alt="image" src="https://github.com/user-attachments/assets/ad57dccb-de56-4dfe-8d18-23ec4181b4e1" />
 
 
 ## 🧩 Project Structure
